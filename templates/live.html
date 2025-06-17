@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="/static/style.css"></head>
+<body>
+<h1>Live Attendance</h1>
+<video id="video" width="640" height="480" autoplay></video>
+<script>
+// access webcam
+navigator.mediaDevices.getUserMedia({ video: true })
+  .then(stream => document.getElementById('video').srcObject = stream)
+  .catch(err => console.error(err));
+</script>
+</body>
+</html>
 
