@@ -1,1 +1,11 @@
+# User Experience Flow
+
+1. Admin logs in (future feature).
+2. Admin clicks "Start Session" on Live Screen.
+3. Camera feed displays, system auto-detects faces.
+4. Recognized faces get names overlay.
+5. For each recognized face, system sends /api/mark_attendance.
+6. Attendance table updates in real-time.
+7. Admin can switch to Dashboard to review data, filter by date, and export CSV.
+8. Admin can navigate to Add User screen to register new users.
 
