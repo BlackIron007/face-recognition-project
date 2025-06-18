@@ -58,7 +58,7 @@ All tables are normalized and follow relational database best practices with app
 
 ---
 
-## 🖼 Table: `face_images`
+##  Table: `face_images`
 
 | Column            | Data Type    | Description                             |
 |-------------------|--------------|-----------------------------------------|
@@ -76,7 +76,7 @@ All tables are normalized and follow relational database best practices with app
 
 ##  ER Diagram
 
-![ER Diagram](../../week2/diagrams/er_diagram.png)
+![ER Diagram](../../week2/diagrams/ER-diagram.png)
 
 _This diagram shows the relationships between all entities and how they are linked via primary and foreign keys._
 
