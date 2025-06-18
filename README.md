@@ -52,6 +52,33 @@ This project is a smart, AI-powered attendance system that uses facial recogniti
 
 ---
 
+## ER Diagram (Database Design)
+
+> The Entity-Relationship diagram below shows the relational structure between users, their facial images, and attendance records.
+
+![ER Diagram](docs/week2/diagrams/ER-diagram.png)
+
+---
+
+## Database Schema
+
+> The following SQL schema defines the structure of the database tables used for storing users, facial encodings, and attendance logs.
+
+- **User Profiles Table**  
+  Stores employee information and face encodings.
+
+- **Attendance Records Table**  
+  Logs attendance check-in/out with confidence score and location.
+
+- **Face Images Table**  
+  Supports storage of multiple face images per user with encoding metadata.
+
+➡ [Click here to view schema SQL file](docs/database_schema.sql)
+
+➡ [Click here to view detailed design document](docs/database_design.md)
+
+---
+
 ##  Setup Instructions
 
 > To run this project locally:
