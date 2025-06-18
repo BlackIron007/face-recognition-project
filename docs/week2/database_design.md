@@ -76,7 +76,7 @@ All tables are normalized and follow relational database best practices with app
 
 ##  ER Diagram
 
-![ER Diagram](../../week2/diagrams/ER-diagram.png)
+![ER Diagram](/docs/week2/diagrams/ER-diagram.png)
 
 _This diagram shows the relationships between all entities and how they are linked via primary and foreign keys._
 
