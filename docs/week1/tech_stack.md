@@ -22,7 +22,7 @@ This document outlines the technologies, libraries, and tools selected for the A
 
 ---
 
-## 🗃 Data Storage
+##  Data Storage
 
 | Component          | Technology        | Reason                                                                 |
 |--------------------|-------------------|------------------------------------------------------------------------|
