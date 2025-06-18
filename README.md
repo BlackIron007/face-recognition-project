@@ -32,7 +32,7 @@ This project is a smart, AI-powered attendance system that uses facial recogniti
 
 > This diagram shows how each component of the system interacts with the others.
 
-![System Architecture](docs/architecture/system_architecture.png)
+![System Architecture](docs/week2/diagrams/system_architecture.png)
 
 ---
 
@@ -40,7 +40,7 @@ This project is a smart, AI-powered attendance system that uses facial recogniti
 
 > This diagram represents the user journey through the application, from login to logout.
 
-![UX Flow](docs/ux_flow/ux_flow.png)
+![UX Flow](docs/week2/diagrams/ux_flow.png)
 
 ---
 
@@ -48,7 +48,7 @@ This project is a smart, AI-powered attendance system that uses facial recogniti
 
 > This diagram shows the sequence of operations between different components when a user interacts with the system.
 
-![Sequence Diagram](docs/diagrams/sequence_diagram.png)
+![Sequence Diagram](docs/week2/diagrams/sequence_diagram.png)
 
 ---
 
